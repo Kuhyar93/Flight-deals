@@ -23,13 +23,11 @@
 #     data_manager.update_destination_codes()
 #
 
-# TEQUILA SHIT
+# TEQUILA API
 
 
-
-#
 # TEQUILA_ENDPOINT = "https://api.tequila.kiwi.com/v2/search"
-# TEQUILA_API_KEY = "msAJ06QhGFU6YWl1ya2DEEYTuTwLq1ol"
+# TEQUILA_API_KEY = "your_API_key"
 # header = {"apikey": TEQUILA_API_KEY}
 # code_search_para = {
 #     "fly_from": "LON",
